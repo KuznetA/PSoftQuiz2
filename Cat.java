@@ -9,5 +9,6 @@ public class Cat{
 		Cat cat1 = new Cat("Scamper"); 
 		Cat cat2 = new Cat("Scamper");
 		System.out.println(cat1.equals(cat2));
+		System.out.println("whatever");
 	}
 }
